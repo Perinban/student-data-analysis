@@ -1,5 +1,38 @@
 <h1> ANALYSIS ON STUDENTS DATA </h1>
 
+**Data Sources**:
+
+<table border="0" cellpadding="0" cellspacing="0" width="1518" style="">
+  <thead>
+    <tr height="23" style="height: 17pt;">
+      <th>Document Name</th>
+      <th>Details</th>
+      <th>Reference Link</th>
+    </tr>
+  </thead><colgroup><col width="272" style="width: 204pt;"><col width="687" style="width: 515pt;"><col width="559" style="width: 419pt;"></colgroup>
+  <tbody>
+    <tr height="47" style="height: 35pt;">
+      <td height="47" class="xl68" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; white-space: nowrap; text-align: center; height: 35pt;">Table_Insert.xlsx</td>
+      <td class="xl69" width="687" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; width: 515pt;">This file contains the table insertion records that are used as part of this analysis</td>
+      <td class="xl77" width="559" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: rgb(70, 120, 134); font-size: 12pt; text-decoration: underline; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 419pt;"><a href="https://docs.google.com/spreadsheets/d/1pPImczkzRj0G5s9R6DG21kSI8kduFU-H/edit?usp=sharing&amp;ouid=114840663789662506255&amp;rtpof=true&amp;sd=true"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrK-y05cfo5GM1Pg55QJLLirq54AByCaozg&s" width="50" height="30"/></a></td>
+    </tr>
+    <tr height="21" style="height: 16pt;">
+      <td rowspan="3" height="65" class="xl71" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor windowtext black; border-image: none; white-space: nowrap; text-align: center; height: 49pt;">Students_Data.xlsx</td>
+      <td rowspan="3" class="xl72" width="687" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor windowtext black; border-image: none; width: 515pt;">This file contains the source records that are used as part of this analysis</td>
+      <td rowspan="3" class="xl78" width="559" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: rgb(70, 120, 134); font-size: 12pt; text-decoration: underline; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor windowtext black; border-image: none; text-align: center; width: 419pt;"><a href="https://docs.google.com/spreadsheets/d/1RxPu2aHZuMtDn5N9XbiYCZLU1yTa9KI3/edit?usp=sharing&amp;ouid=114840663789662506255&amp;rtpof=true&amp;sd=true"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrK-y05cfo5GM1Pg55QJLLirq54AByCaozg&s" width="50" height="30"/></a></td>
+    </tr>
+    <tr height="21" style="height: 16pt;">
+    </tr>
+    <tr height="23" style="height: 17pt;">
+    </tr>
+    <tr height="24" style="height: 18pt;">
+      <td height="24" class="xl68" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; white-space: nowrap; text-align: center; height: 18pt;">Normalization</td>
+      <td class="xl69" width="687" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; width: 515pt;">This contains the Entity relationship Diagram</td>
+      <td class="xl77" width="559" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: rgb(70, 120, 134); font-size: 12pt; text-decoration: underline; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 419pt;"><a href="https://drawsql.app/teams/de-28/diagrams/de"><img src="https://deals.micro-saas.co/wp-content/uploads/2021/09/DrawSQL-FS-AFFI3-1076.png" width="45" height="60"/></a></td>
+    </tr>
+  </tbody>
+</table>
+
 Given source data has been analyzed and below mapping sheet has been
 created for the same.
 
@@ -226,36 +259,3 @@ Distinction
 ![A screenshot of a computer Description automatically
 generated](./media/image20.png){width="2.7633388013998252in"
 height="1.6835367454068242in"}
-
-**Other Data Details**:
-
-<table border="0" cellpadding="0" cellspacing="0" width="1518" style="">
-  <thead>
-    <tr height="23" style="height: 17pt;">
-      <th>Document Name</th>
-      <th>Details</th>
-      <th>Reference Link</th>
-    </tr>
-  </thead><colgroup><col width="272" style="width: 204pt;"><col width="687" style="width: 515pt;"><col width="559" style="width: 419pt;"></colgroup>
-  <tbody>
-    <tr height="47" style="height: 35pt;">
-      <td height="47" class="xl68" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; white-space: nowrap; text-align: center; height: 35pt;">Table_Insert.xlsx</td>
-      <td class="xl69" width="687" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; width: 515pt;">This file contains the table insertion records that are used as part of this analysis</td>
-      <td class="xl77" width="559" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: rgb(70, 120, 134); font-size: 12pt; text-decoration: underline; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 419pt;"><a href="https://docs.google.com/spreadsheets/d/1pPImczkzRj0G5s9R6DG21kSI8kduFU-H/edit?usp=sharing&amp;ouid=114840663789662506255&amp;rtpof=true&amp;sd=true">https://docs.google.com/spreadsheets/d/1pPImczkzRj0G5s9R6DG21kSI8kduFU-H/edit?usp=sharing&amp;ouid=114840663789662506255&amp;rtpof=true&amp;sd=true</a></td>
-    </tr>
-    <tr height="21" style="height: 16pt;">
-      <td rowspan="3" height="65" class="xl71" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor windowtext black; border-image: none; white-space: nowrap; text-align: center; height: 49pt;">Students_Data.xlsx</td>
-      <td rowspan="3" class="xl72" width="687" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor windowtext black; border-image: none; width: 515pt;">This file contains the source records that are used as part of this analysis</td>
-      <td rowspan="3" class="xl78" width="559" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: rgb(70, 120, 134); font-size: 12pt; text-decoration: underline; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor windowtext black; border-image: none; text-align: center; width: 419pt;"><a href="https://docs.google.com/spreadsheets/d/1RxPu2aHZuMtDn5N9XbiYCZLU1yTa9KI3/edit?usp=sharing&amp;ouid=114840663789662506255&amp;rtpof=true&amp;sd=true">https://docs.google.com/spreadsheets/d/1RxPu2aHZuMtDn5N9XbiYCZLU1yTa9KI3/edit?usp=sharing&amp;ouid=114840663789662506255&amp;rtpof=true&amp;sd=true</a></td>
-    </tr>
-    <tr height="21" style="height: 16pt;">
-    </tr>
-    <tr height="23" style="height: 17pt;">
-    </tr>
-    <tr height="24" style="height: 18pt;">
-      <td height="24" class="xl68" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: currentcolor windowtext windowtext; border-image: none; white-space: nowrap; text-align: center; height: 18pt;">Normalization</td>
-      <td class="xl69" width="687" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; font-size: 11pt; font-family: Calibri, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; width: 515pt;">This contains the Entity relationship Diagram</td>
-      <td class="xl77" width="559" style="padding-top: 1px; padding-right: 1px; padding-left: 1px; color: rgb(70, 120, 134); font-size: 12pt; text-decoration: underline; font-family: &quot;Aptos Narrow&quot;, sans-serif; vertical-align: middle; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: currentcolor windowtext windowtext currentcolor; border-image: none; text-align: center; width: 419pt;"><a href="https://drawsql.app/teams/de-28/diagrams/de">https://drawsql.app/teams/de-28/diagrams/de</a></td>
-    </tr>
-  </tbody>
-</table>
